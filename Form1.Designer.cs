@@ -37,7 +37,7 @@ namespace testControler
             // 
             // Btn_Foward
             // 
-            this.Btn_Foward.Location = new System.Drawing.Point(544, 183);
+            this.Btn_Foward.Location = new System.Drawing.Point(544, 103);
             this.Btn_Foward.Name = "Btn_Foward";
             this.Btn_Foward.Size = new System.Drawing.Size(100, 91);
             this.Btn_Foward.TabIndex = 0;
@@ -47,7 +47,7 @@ namespace testControler
             // 
             // Btn_Backword
             // 
-            this.Btn_Backword.Location = new System.Drawing.Point(544, 280);
+            this.Btn_Backword.Location = new System.Drawing.Point(544, 200);
             this.Btn_Backword.Name = "Btn_Backword";
             this.Btn_Backword.Size = new System.Drawing.Size(100, 91);
             this.Btn_Backword.TabIndex = 0;
@@ -57,7 +57,7 @@ namespace testControler
             // 
             // Btn_Left
             // 
-            this.Btn_Left.Location = new System.Drawing.Point(438, 280);
+            this.Btn_Left.Location = new System.Drawing.Point(438, 200);
             this.Btn_Left.Name = "Btn_Left";
             this.Btn_Left.Size = new System.Drawing.Size(100, 91);
             this.Btn_Left.TabIndex = 0;
@@ -67,7 +67,7 @@ namespace testControler
             // 
             // Btn_Right
             // 
-            this.Btn_Right.Location = new System.Drawing.Point(650, 280);
+            this.Btn_Right.Location = new System.Drawing.Point(650, 200);
             this.Btn_Right.Name = "Btn_Right";
             this.Btn_Right.Size = new System.Drawing.Size(100, 91);
             this.Btn_Right.TabIndex = 0;
